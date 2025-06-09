@@ -1,0 +1,3 @@
+node_modules/
+database/lab_management.sqlite
+.env
